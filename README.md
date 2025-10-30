@@ -1,5 +1,7 @@
 # ExpressLRS Branding materials
 
+ExpressLRS is developed and maintained by ExpressLRS LLC and its passionate open source community, working together to advance reliable, high-performance radio control technology.
+
 This repository contains official ExpressLRS branding assets, such as logos, icons, and other related design files.
 
 Developed and maintained by **ExpressLRS LLC** and its passionate open source community, working together to advance reliable, high-performance radio control technology.
